@@ -1,11 +1,14 @@
 # Ujwal_Plivo_Assignment
 Plivo Assignment
 
-This assignment contains:
+This repo contains:
 
 1. SIPp XML scenario files(3) to register and call.
-2. Perl scriot that triggers the SIPp XML scripts.
+2. Perl script that triggers the SIPp XML scripts.
 3. Logs(generated from above files) and pcaps.
+
+Other details:
+
 
 To run the perl script, make sure to provide the necessary details in the file: script.pl. For example: IPV4 address of UAC and UAS, credentials of sipp servers, etc.
 
